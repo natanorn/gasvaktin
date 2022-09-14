@@ -285,5 +285,12 @@
             "lon": -18.654565
         },
         "name": "Ólafsfjörður"
+    },
+    "ob_046": {
+        "geo": {
+            "lat": 64.313949,
+            "lon": -22.087598
+        },
+        "name": "Suðurgata Akranes"
     }
 }
